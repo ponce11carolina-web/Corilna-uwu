@@ -4,7 +4,7 @@
 
 <br>
 
-### `// currently figuring things out`
+### `currently figuring things out`
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3500&pause=1200&color=B8B8B8&center=true&vCenter=true&width=650&lines=I+ask+why.+Probably+too+much.;Curious+by+default%2C+analytical+by+necessity.;Learning+how+things+work+%E2%86%92+trying+to+make+them+better.;Future+Chemical+Engineer...+hopefully.;Still+debugging+life%2C+one+question+at+a+time." alt="Carolina's typing quotes" />
 
